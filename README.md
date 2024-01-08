@@ -1,5 +1,6 @@
 # CIDD-Tweet-Trend Project Setup Guide
 ![Screenshot from 2024-01-08 16-08-27](https://github.com/coder9a/CICD-Tweet-Trend/assets/42884781/f8e473ec-4e59-4b14-9d2b-364625360fe9)
+![image](https://github.com/coder9a/CICD-Tweet-Trend/assets/42884781/64b7a4f3-272e-4445-b8d8-8b5d05be32fe)
 
 ## Overview
 This guide provides step-by-step instructions for setting up a CI/CD pipeline using Terraform, Ansible, Jenkins, SonarQube, JFrog Artifactory, Docker, and Kubernetes. The pipeline includes infrastructure provisioning, configuration management, code quality assessment, containerization, and Kubernetes deployment.
